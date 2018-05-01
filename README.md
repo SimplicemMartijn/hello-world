@@ -1,2 +1,2 @@
 # hello-world
-test project hana integration
+test project hana integration (with bunnies)
